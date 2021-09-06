@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Santander Tecnologia](https://www.linkedin.com/company/santandertec/mycompany/)
 
-- 🌱 I’m currently learning **React, Next.JS, NestJS, Microservices with Node and Docker**
+- 🌱 I’m currently learning **Angular, NestJS, Microservices with Node and Docker**
 
 - 👯 I’m looking to collaborate on [Pedisy](https://pedisy.com/)
 
