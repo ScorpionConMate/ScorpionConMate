@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scorpionconmate" alt="scorpionconmate" /></a> </p>
 
-- 🔭 I’m currently working on [Atom](https://www.linkedin.com/company/atomchat)
-
 - 🌱 I’m currently learning **Angular, NestJS, GCP, Microservices with Node and Docker**
 
 - 💬 Ask me about **Angular, Node, Php, Docker**
