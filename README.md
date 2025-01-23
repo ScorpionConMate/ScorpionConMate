@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scorpionconmate" alt="scorpionconmate" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, NestJS, GCP, Microservices with Node and Docker**
+- 🌱 I’m currently learning **AWS, NestJS, Microservices with Node/Golang and Docker**
 
 - 💬 Ask me about **Angular, Node, Php, Docker**
 
 - 📫 How to reach me **diegoalanperezz@gmail.com**
-
-- ⚡ Fun fact **I have been a Scout since I was approximately 10 years old and a "punk" who only follows the musical genre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
